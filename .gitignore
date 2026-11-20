@@ -1,0 +1,36 @@
+# Python & Virtual Environments
+.venv/
+venv/
+ENV/
+env/
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.pytest_cache/
+
+# Operating System files
+.DS_Store
+Thumbs.db
+ehthumbs.db
+desktop.ini
+
+# IDE & Editor settings
+.vscode/
+.idea/
+*.swp
+*.swo
+*.sublime-project
+*.sublime-workspace
+
+# Large Media & Download artifacts
+*.mp4
+*.mkv
+*.mov
+*.webm
+*.avi
+*.part
+*.crdownload
+downloads/
+temp/
+logs/
